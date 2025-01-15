@@ -125,4 +125,4 @@ else:
     update()
 
 with open('proprietary-files.txt', 'w') as file:
-    file.write('\n'.join(lines))
+    file.write('\n'.join(lines)) 
